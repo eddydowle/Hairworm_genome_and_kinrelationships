@@ -5,6 +5,9 @@ Files are as follows:
 ## Genome_steps.sh
 This file includes all the steps taken to assemble and annotate the genome
 
+## GBS_data_processings.sh
+This files includes all the steps taken to process the GBS data
+
 ## kingrobust_wormlength_piechart_Ranalyses.R
 This is the R script for all the figures in the paper
 
