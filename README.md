@@ -15,7 +15,7 @@ This is the metadata for all the worms and is includes the size/sex/co-occurranc
 This is the raw output from NGSrelate
 
 ## Samplelist.txt
-This is the metadata fro the NGSrelate (e.g. it gives the sample codes for the numbers in the raw output from NGSrelate)
+This is the metadata for the NGSrelate (e.g. it gives the sample codes for the numbers in the raw output from NGSrelate)
 
 ## TE_classification proportion.txt
 This is the TE proportion data from Earl Grey used to make the TE pie chart figure in the paper
