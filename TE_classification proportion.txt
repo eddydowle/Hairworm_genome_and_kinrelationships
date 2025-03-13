@@ -1,0 +1,9 @@
+TE_classification	proportion
+DNA	0.016780255
+LINE	0.039113299
+LTR	0.010661057
+Other(Simple Repeat, Miscosatelite, RNA)	0.00357055
+Penelope	0.008200869
+Rolling Circle	0.000523575
+Unclassified	0.143775605
+Non-repeat	0.77737479
